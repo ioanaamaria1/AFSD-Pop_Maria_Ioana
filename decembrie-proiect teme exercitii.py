@@ -46,7 +46,7 @@ def choose_color():
 
 
     if color_code[1]:
-        current_color = color_code[1]  # Obținem codul hex al culorii
+        current_color = color_code[1] 
         draw_bars(current_color)
 
 
